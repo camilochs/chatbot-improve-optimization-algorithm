@@ -2,7 +2,6 @@ import streamlit as st
 from openai import OpenAI
 import os
 import requests
-from streamlit_modal import Modal
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="Optimization Chat Assistant", layout="wide")
